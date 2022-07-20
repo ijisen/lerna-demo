@@ -1,0 +1,15 @@
+{
+  "name": "@dne/common",
+  "version": "1.0.0",
+  "description": "原子组件，负责ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@dne/vsp": "^1.0.0"
+  }
+}

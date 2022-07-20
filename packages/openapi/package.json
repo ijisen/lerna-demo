@@ -1,0 +1,15 @@
+{
+  "name": "@dne/openapi",
+  "version": "1.0.0",
+  "description": "根据swagger的json生成ts代码",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@dne/vsp": "^1.0.0"
+  }
+}

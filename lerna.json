@@ -1,0 +1,15 @@
+{
+  "useNx": false,
+  "npmClient": "pnpm",
+  "version": "independent",
+  "command": {
+    "bootstrap": {
+      "hoist": "--hoist"
+    },
+    "publish": {
+      "ignoreChanges": [
+        "applications/*"
+      ]
+    }
+  }
+}
