@@ -1,6 +1,13 @@
 {
   "name": "dne",
   "private": true,
+  "publishConfig": {
+    "registry": "http://localhost:4873/"
+  },
+  "workspaces": [
+    "./packages/*",
+    "./applications/*"
+  ],
   "devDependencies": {
     "lerna": "^5.1.8",
     "typescript": "^4.7.4"

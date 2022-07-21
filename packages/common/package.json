@@ -1,7 +1,7 @@
 {
   "name": "@dne/common",
   "version": "1.0.0",
-  "description": "原子组件，负责ui",
+  "description": "常量定义、hooks、utils等",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
