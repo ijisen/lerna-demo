@@ -1,6 +1,6 @@
 {
   "name": "@dne/components",
-  "version": "1.0.0",
+  "version": "1.0.1-alpha.0",
   "description": "业务组件",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@dne/vsp": "^1.0.0"
+    "@dne/vsp": "^1.0.1-alpha.0"
   }
 }
